@@ -27,6 +27,7 @@ This Repository is to curate the scripts used for hacking as well as for providi
 - NodeJs
 - Go
 - Java
+- Php
 - Ruby
 - DJango
 
